@@ -11,8 +11,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/miha-arh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miha-arh" height="30" width="40" /></a>
-<a href="https://instagram.com/mihaarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihaarh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miha-arh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miha-arh" height="30" width="40" /></a>
+<a href="https://instagram.com/mihaarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihaarh" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
