@@ -9,12 +9,14 @@
 - ⚡ My Superpower: I love learning new things
 
 
-###Connect with me:
+### Connect with me:
+
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miha-arh" height="30" width="40" />][linkedin]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihaarh" height="30" width="40" />][instagram]
 
 
-###Languages and Tools:
+### Languages and Tools:
+
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />][html5]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />][vuejs]
 [<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />][vuetify]
