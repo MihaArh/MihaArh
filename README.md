@@ -36,10 +36,5 @@
     
 </p>
 
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/w68ey25qrxeesmh82xsbb174e)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihaarh&show_icons=true&locale=en" alt="mihaarh" /></p>
 
