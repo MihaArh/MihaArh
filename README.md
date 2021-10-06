@@ -46,12 +46,3 @@
 </a>
 
 </div>
-
-<style>
-    hr{
-        padding: 10px;
-    }
-    .git-stats {
-        float: left
-    }
-</style>
