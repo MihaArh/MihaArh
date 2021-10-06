@@ -39,7 +39,7 @@
 <hr>
 
 <div class="stats">
-<p class="git-stats"><img src="https://github-readme-stats.vercel.app/api?username=mihaarh&show_icons=true&locale=en" alt="mihaarh" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=mihaarh&show_icons=true&locale=en" alt="mihaarh" />
 
 <a href="https://app.daily.dev/forxmi">
 <img src="https://api.daily.dev/devcards/16bd5d8d6f3f45dfb0f5c57bfb607eb2.png?r=ceu" height="200" alt="Miha's Dev Card"/>
