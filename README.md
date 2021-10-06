@@ -2,11 +2,11 @@
 
 ## I'm a passionate Full stack Developer, Sportsman and a Coffee Consumer!!
 
-- 🏠 Ljubljana/Krško, Slovenia
+- <div title="Located in">🏠 Ljubljana/Krško, Slovenia</div>
 - <div title="Current employer">🏢 Telekom Slovenije</div>
-- 🏫 Faculty of Computer and Information Science Ljubljana
-- 🎓 Computer and information science engineer (Bachelor of Science)
-- ⚡ My Superpower: I love learning new things
+- <div title="Current education">🏫 Faculty of Computer and Information Science Ljubljana</div>
+- <div title="Highest education reached">🎓 Computer and information science engineer (Bachelor of Science)</div>
+- <div title="Superpower">⚡ My Superpower: I love learning new things</div>
 
 ### Connect with me:
 
