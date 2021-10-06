@@ -3,13 +3,13 @@
 ## I'm a passionate Full stack Developer, Sportsman and a Coffee Consumer!!
 
 - 🏠 Ljubljana/Krško, Slovenia
-- 🏢 Telekom Slovenije
-- 🏫 Faculty of Computer and Information Science Ljubljana 
+- <div title="Current employer">🏢 Telekom Slovenije</div>
+- 🏫 Faculty of Computer and Information Science Ljubljana
 - 🎓 Computer and information science engineer (Bachelor of Science)
 - ⚡ My Superpower: I love learning new things
 
-
 ### Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/miha-arh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miha-arh" height="30" width="40" /></a>
 <a href="https://instagram.com/mihaarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihaarh" height="30" width="40" /></a>
@@ -36,5 +36,22 @@
     
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihaarh&show_icons=true&locale=en" alt="mihaarh" /></p>
+<hr>
 
+<div class="stats">
+<p class="git-stats"><img src="https://github-readme-stats.vercel.app/api?username=mihaarh&show_icons=true&locale=en" alt="mihaarh" /></p>
+
+<a href="https://app.daily.dev/forxmi">
+<img src="https://api.daily.dev/devcards/16bd5d8d6f3f45dfb0f5c57bfb607eb2.png?r=ceu" height="200" alt="Miha's Dev Card"/>
+</a>
+
+</div>
+
+<style>
+    hr{
+        padding: 10px;
+    }
+    .git-stats {
+        float: left
+    }
+</style>
