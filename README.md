@@ -3,7 +3,7 @@
 ## I'm a passionate Full stack Developer, Sportsman and a Coffee Consumer!!
 
 - <div title="Located in">🏠 Ljubljana/Krško, Slovenia</div>
-- <div title="Current employer">🏢 Telekom Slovenije</div>
+- <div title="Current employer">🏢 Styliff Tect & Telekom Slovenije</div>
 - <div title="Current education">🏫 Faculty of Computer and Information Science Ljubljana (Master's study programme)</div>
 - <div title="Highest education reached">🎓 Computer and information science engineer (Bachelor of Science)</div>
 - <div title="Superpower">⚡ My Superpower: I love learning new things</div>
