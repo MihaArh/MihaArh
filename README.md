@@ -1,6 +1,6 @@
 ### Hi there, I'm Miha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a passionate Full stack Developer, Sportsman and a Coffee Consumer!!
+## I'm a passionate Full stack Developer, sport lover and a Coffee Consumer!!
 
 - <div title="Located in">🏠 Krško, Slovenia</div>
 - <div title="Current employer">🏢 Peach Studios & Telekom Slovenije</div>
